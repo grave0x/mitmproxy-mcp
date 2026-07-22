@@ -1,0 +1,12 @@
+pyproject.toml
+src/mitmproxy_mcp/__init__.py
+src/mitmproxy_mcp/addon.py
+src/mitmproxy_mcp/flow_store.py
+src/mitmproxy_mcp/proxy_manager.py
+src/mitmproxy_mcp/server.py
+src/mitmproxy_mcp.egg-info/PKG-INFO
+src/mitmproxy_mcp.egg-info/SOURCES.txt
+src/mitmproxy_mcp.egg-info/dependency_links.txt
+src/mitmproxy_mcp.egg-info/entry_points.txt
+src/mitmproxy_mcp.egg-info/requires.txt
+src/mitmproxy_mcp.egg-info/top_level.txt

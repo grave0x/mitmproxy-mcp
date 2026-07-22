@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: mitmproxy-mcp
+Version: 0.1.0
+Summary: MCP server for live viewing and interaction with mitmproxy
+Requires-Python: >=3.11
+Requires-Dist: mcp>=1.0.0
+Requires-Dist: mitmproxy>=11.0.0
